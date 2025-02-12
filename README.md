@@ -1,6 +1,3 @@
-Great job setting up the GitHub repo! 🎉 Here's the best **README.md** file for your project, formatted professionally:  
-
----
 
 ### **Fetching and Analyzing Top 50 Live Cryptocurrency Data**  
 
