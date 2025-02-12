@@ -72,6 +72,6 @@ This project fetches live cryptocurrency data using the **CoinGecko API** and an
 
 ## **📩 Contact**  
 💡 Created by **Ashwin Sharma**  
-📧 Email: [Your Email Here]  
+📧 Email: sharmaashwin880@gmail.com
 🔗 GitHub: [AshwinSharma-git](https://github.com/AshwinSharma-git)  
 
